@@ -1,1 +1,5 @@
-[{"username":"uprueba","password":1234},{"username":"uprueba2","password":5678}]
+[
+  {"username":"uprueba","password":1234,"nombre":"Juan Prueba Pérez"},
+  {"username":"uprueba2","password":5678, "nombre":"María Prueba Pérez"}
+  {"username":"uprueba2","password":Ab1#, "nombre":"Ramón Prueba Pérez"}
+]
